@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... computer science
 - 🌱 I’m currently learning:
 - Django / Python, JavaScript, PineScript
-- 💞️ I’ve done CS50 classes and a bunch of Javascript/Mysql classes
+- 💞️ I’ve done CS50 classes and a bunch of Javascript/Mysql classes (Udemy/Freecodecamp/Teachtable.com)
 I've had the oportunity to use sql and visual basic at a job that im working at.
 Currently I'm developing my own portofolio
 - Reach me via email at: d91gherghel@gmail.com
